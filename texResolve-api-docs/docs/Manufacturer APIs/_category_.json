@@ -1,0 +1,8 @@
+{
+  "label": "Manufacturer APIs",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "These APIs enable user management and interaction for Manufacturer in the system"
+  }
+}

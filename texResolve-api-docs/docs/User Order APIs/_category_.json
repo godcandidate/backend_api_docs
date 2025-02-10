@@ -1,0 +1,8 @@
+{
+  "label": "User Order APIs",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "These APIs enable order management for customers in the system. User must be logged in and have items in cart"
+  }
+}

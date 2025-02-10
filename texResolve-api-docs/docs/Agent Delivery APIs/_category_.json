@@ -1,0 +1,8 @@
+{
+  "label": "Agent Delivery APIs",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "These APIs enable agents to distribute products to customers. Agent must be logged in"
+  }
+}
