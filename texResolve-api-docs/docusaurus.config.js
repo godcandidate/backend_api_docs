@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Hajorah API Endpoints',
+  title: 'TexResolve API Endpoints',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -68,7 +68,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Hajorah API Endpoints',
+        title: 'TexResolve API Endpoints',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
