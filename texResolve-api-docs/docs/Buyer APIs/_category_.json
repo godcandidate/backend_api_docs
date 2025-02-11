@@ -1,8 +1,8 @@
 {
-  "label": "Buyer APIs",
-  "position": 3,
+  "label": "User APIs",
+  "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "These APIs enable user management and interaction for customers in the system"
+    "description": "These APIs enable user management and interaction for users in the system"
   }
 }

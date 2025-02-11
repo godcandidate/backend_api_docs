@@ -1,8 +1,0 @@
-{
-  "label": "Driver APIs",
-  "position": 7,
-  "link": {
-    "type": "generated-index",
-    "description": "These APIs enable user management and interaction for drivers in the system"
-  }
-}

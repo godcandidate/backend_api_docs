@@ -1,8 +1,0 @@
-{
-  "label": "Product APIs",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "These APIs handles product management in the system."
-  }
-}
