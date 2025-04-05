@@ -9,7 +9,7 @@ Learn how to fetch all tickets by a user.
 ## Request
 
 - **Method**: GET
-- **Endpoint**: `https://tex-resolve-backend.onrender.com/api/v1/user/tickets`
+- **Endpoint**: `https://tex-resolve-backend.onrender.com/api/v1/tickets/me`
 
 
 
