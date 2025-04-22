@@ -22,6 +22,7 @@ title="Ticket Schema"
 | Parameter         | Type     | Description                                  |
 |------------------|---------|----------------------------------------------|
 | title           | String  | Title of the issue                           |
+| category           | String  | Category of the issue                           |
 | description     | String  | Detailed issue description                   |
 | attempted_solution | String  | Steps attempted to resolve the issue        |
 | attachments?    | File    | Optional file attachments                    |

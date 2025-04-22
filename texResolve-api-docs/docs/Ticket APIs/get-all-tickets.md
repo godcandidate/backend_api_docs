@@ -17,6 +17,7 @@ Learn how to fetch all tickets with pagination and search functionality.
 |------------|--------|------------------------------------------------------------------|
 | `page`     | Number | (Optional) Page number for pagination (default: 1)              |
 | `limit`    | Number | (Optional) Number of tickets per page (default: 10)             |
+| `category`   | String | (Optional) Keyword to search in ticket categories          |
 | `title`   | String | (Optional) Keyword to search in ticket titles or tags          |
 | `tags`     | Array  | (Optional) Filter tickets by one or more tags                   |
 
