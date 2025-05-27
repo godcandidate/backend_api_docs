@@ -9,8 +9,13 @@ Learn how to update a ticket in TexResolve.
 ## Request
 
 - **Method**: PUT
-- **Endpoint**: `https://tex-resolve-backend.onrender.com/api/v1/user/tickets`
+- **Endpoint**: `https://tex-resolve-backend.onrender.com/api/v1/user/tickets/id`
 
+### Query Parameters
+
+| Parameter  | Type   | Description                                                      |
+|------------|--------|------------------------------------------------------------------|
+| `id`     | String | The id of the ticket           |
 
 
 ### Body Parameters
